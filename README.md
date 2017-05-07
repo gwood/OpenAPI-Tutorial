@@ -28,3 +28,12 @@ Repo Contents
 - [implementation](implementation/): Example implementation using Connexions.
 - [presentation](presentation/): HTML presentation and source.
 - [work](work/): Working directory for your lessons.
+
+Slides
+------
+https://gwood.github.io/OpenAPI-Tutorial/presentation/presentation.html#1
+
+Building the Slides in Your Repo
+--------------------------------
+$ make gh-pages
+$ make gh-pages-push
